@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\bin\Debug\Diagonal negativos.exe.config
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\bin\Debug\Diagonal negativos.exe
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\bin\Debug\Diagonal negativos.pdb
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\obj\Debug\Diagonal negativos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\obj\Debug\Diagonal negativos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\obj\Debug\Diagonal negativos.exe
+C:\temp\ws-vs2019\Diagonal negativos\Diagonal negativos\obj\Debug\Diagonal negativos.pdb
